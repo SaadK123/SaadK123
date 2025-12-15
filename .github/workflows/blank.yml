@@ -30,4 +30,3 @@ jobs:
           filename: metrics.svg
           output_action: commit
           committer_message: "chore: update metrics"
-
