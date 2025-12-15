@@ -1,7 +1,7 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadk123&label=Profile%20views&color=0e75b6&style=flat" alt="saadk123" /> </p>
-
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
