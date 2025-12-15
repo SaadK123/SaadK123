@@ -19,6 +19,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SaadK123
           repo: SaadK123
+          config_timezone: Canada/Montreal
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           template: repository
           filename: metrics.repository.svg
           output_action: commit
